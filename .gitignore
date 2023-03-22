@@ -1,0 +1,7 @@
+
+target/
+newdbt_packages/
+logs/
+
+demo_dbt/
+.git
